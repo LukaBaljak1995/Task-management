@@ -1,0 +1,36 @@
+    
+body{
+    background-color: #ADD8E6;
+    padding-top: 50px;
+}
+.nav navbar-nav navbar-right{
+        margin-right: 70px;
+    }
+
+dropdown-menu{
+    background-color: green;
+}
+
+.sl-right{
+    margin-left: 80pt;
+
+}
+.sl{
+
+    margin-left: 80pt;
+}
+.col-md-4{
+    padding-top: 10px; 
+}
+
+.list{
+
+    margin-top: 15pt;
+}
+
+.broj {
+    text-align: center;
+
+}
+
+
